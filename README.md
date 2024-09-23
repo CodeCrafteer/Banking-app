@@ -36,6 +36,7 @@ Bankist is a minimalistic online banking web application designed to manage and 
 ## Installation
 
 To run this project locally, follow these steps:
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### Clone the repository:
 
