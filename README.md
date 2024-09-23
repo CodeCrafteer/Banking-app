@@ -1,3 +1,48 @@
+# Bankist App
+
+Bankist is a minimalistic online banking web application designed to manage and track financial transactions like account balance checking, fund transfers, withdrawals, and more.
+
+## Table of Contents
+
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [License](#license)
+
+## Features
+
+- **Account Management:** Create and manage multiple bank accounts.
+- **Fund Transfer:** Secure transfer of funds between accounts.
+- **Balance Checking:** View current account balance.
+- **Withdrawal & Deposit:** Manage deposits and withdrawals with ease.
+- **Pin Change:** Change your PIN for enhanced security.
+- **Account Summary:** View detailed transaction history.
+
+## Technologies Used
+
+- **Frontend:**
+  - HTML5
+  - CSS3
+  - JavaScript (ES6+)
+  - React
+  - Styled Components
+  - Bootstrap
+
+- **Version Control:**
+  - Git & GitHub
+
+## Installation
+
+To run this project locally, follow these steps:
+
+### Clone the repository:
+
+```bash
+git clone https://github.com/your-username/Bankist-app.git
+cd Bankist-app
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +50,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ### `npm start`
 
