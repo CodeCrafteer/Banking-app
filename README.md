@@ -1,5 +1,5 @@
 # Bankist App
-[image alt](https://github.com/CodeCrafteer/Banking-app/blob/main/Bankist-app.png)
+![Image Alt](https://github.com/CodeCrafteer/Banking-app/blob/main/Bankist-app.png)
 Bankist is a minimalistic online banking web application designed to manage and track financial transactions like account balance checking, fund transfers, withdrawals, and more.
 
 ## Table of Contents
